@@ -54,6 +54,7 @@ cd weather-forecasting-app
   This is a frontend-only project. Simply download or clone the repository to your local system and run the index.html file.
 ---
 
+
 ## 📋 Technology Stack
  - HTML: Structure of the application.
  - CSS: Styling and layout.
@@ -61,7 +62,7 @@ cd weather-forecasting-app
 ---
 
 ## 📦 API Used
- This project uses the OpenWeatherMap API to fetch real-time weather data.
+      - This project uses the OpenWeatherMap API to fetch real-time weather data.
 --- 
 
 ## 💡 How It Works
