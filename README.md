@@ -41,9 +41,9 @@ To run this project, ensure you have:
    git clone https://github.com/your-username/weather-forecasting-app.git
    ```
 2. Open the project folder:
-  ```bash
-cd weather-forecasting-app
-  ```
+   ```bash
+   cd weather-forecasting-app
+   ```
 3. Launch the index.html file in your browser:
     - On most systems, you can simply double-click index.html.
     - Alternatively, serve it via a live server (e.g., in VS Code).
