@@ -6,7 +6,7 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 ## 🌟 Description
-A responsive **Weather Forecasting Web Application** built using **HTML**, **CSS**, and **JavaScript**. This application allows users to search for weather information for any city, displaying details such as temperature, humidity, and wind speed. 
+A responsive ** WeatherSphere** displaying the current weather built using **HTML**, **CSS**, and **JavaScript**. This application allows users to search for weather information for any city, displaying details such as temperature, humidity, and wind speed. 
 
 It fetches real-time weather data using a weather API and presents it in an elegant and visually appealing interface.
 
